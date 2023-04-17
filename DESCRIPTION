@@ -1,5 +1,5 @@
 Type: Package
-Package: manualbug-lib
+Package: manualbugLib
 Title: aa
 Version: 1.0
 Authors@R: c(
@@ -14,4 +14,3 @@ BugReports: https://github.com/tidyverse/dplyr/issues
 Depends:
 Imports:
 Suggests:
-    testthat
