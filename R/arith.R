@@ -1,0 +1,2 @@
+square <- function(a)
+    return(a * a)
