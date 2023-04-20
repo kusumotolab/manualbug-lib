@@ -1,7 +1,7 @@
 multiply <- function(a,b)
     return(a * b)
 
-square2 <- function(a)
+square <- function(a)
     return(multiply(a,a))
 
 half <- function(a)
